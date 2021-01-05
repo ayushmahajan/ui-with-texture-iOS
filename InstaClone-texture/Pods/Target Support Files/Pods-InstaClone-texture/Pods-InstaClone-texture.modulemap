@@ -1,0 +1,6 @@
+framework module Pods_InstaClone_texture {
+  umbrella header "Pods-InstaClone-texture-umbrella.h"
+
+  export *
+  module * { export * }
+}
